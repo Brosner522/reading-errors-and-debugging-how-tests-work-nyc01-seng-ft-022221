@@ -8,3 +8,6 @@ sum
 difference = first_number - second_number
 difference
 
+product = first_number * second_number
+product 
+
