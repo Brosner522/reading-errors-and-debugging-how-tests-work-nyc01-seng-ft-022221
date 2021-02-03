@@ -11,3 +11,5 @@ difference
 product = first_number * second_number
 product 
 
+quotient = first_number / second_number
+quotient
